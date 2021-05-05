@@ -11,16 +11,16 @@ Once your calendar is made, you can use the autofill registration form to autofi
 
 # Application Images
 
-![MCS Dashboard](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/main/images/dashboard.PNG)
+![MCS Dashboard](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/flask/images/dashboard.PNG)
 
 
-![Autofill Form](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/main/images/autofill.PNG)
+![Autofill Form](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/flask/images/autofill.PNG)
 
 
-![PDF](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/main/images/pdf.PNG)
+![PDF](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/flask/images/pdf.PNG)
 
 
-![Email](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/main/images/email.PNG)
+![Email](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/flask/images/email.PNG)
 
 
-![FAQ](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/main/images/FAQ.PNG)
+![FAQ](https://github.com/scsewbh/Manhattan-College-Scheduler/blob/flask/images/FAQ.PNG)
