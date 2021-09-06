@@ -1,5 +1,5 @@
 # MCS-Capstone
-### No Longer Active Website
+### ***No Longer Active Website***
 
 A schedule maker for students at Manhattan College. Easily make your schedule, autofill your registration form, and send to your advisor in a few seconds using the MCS. 
 
